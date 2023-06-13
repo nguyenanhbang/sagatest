@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "bnbnbnbn",
+      "name": "Bằng Ngọc",
+      "email": "bangngoc@gmail.com",
+      "password": "bn200@20404"
+    },
+    {
+      "id": "pD850JZu",
+      "name": "123456",
+      "email": "123456",
+      "password": "123456"
+    },
+    {
+      "id": "puz6lLWo",
+      "name": "ducbangdev",
+      "email": "ducbangdev@gmail.com",
+      "password": "123456789"
+    }
+  ]
+}
